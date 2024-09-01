@@ -1259,9 +1259,9 @@ public class Prim {
 
 
 
-## Recommended Resources
+# Recommended Resources
 
-### Books
+## Books
 
 - **"Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein**
   - Comprehensive coverage of algorithms and data structures.
@@ -1275,7 +1275,7 @@ public class Prim {
   - Provides a broad range of algorithms with practical implementations.
   - [Find it on Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
 
-### Online Courses
+## Online Courses
 
 - **[Coursera - Data Structures and Algorithm Specialization by University of California, San Diego & National Research University Higher School of Economics](https://www.coursera.org/specializations/data-structures-algorithms)**
   - A series of courses covering fundamental and advanced topics in DSA.
@@ -1286,7 +1286,7 @@ public class Prim {
 - **[Udacity - Data Structures and Algorithms Nanodegree](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)**
   - In-depth coverage with real-world projects.
 
-### YouTube Playlists and Channels
+## YouTube Playlists and Channels
 
 - **[MIT OpenCourseWare - Introduction to Algorithms](https://www.youtube.com/playlist?list=PL2S3p4q4Xz4cQjRDAghsO93i3S8mR6RQ9)**
   - Lecture series from MIT covering various algorithms and data structures.
@@ -1303,7 +1303,7 @@ public class Prim {
 - **[GeeksforGeeks - Data Structures and Algorithms](https://www.youtube.com/user/geeksforgeeksvideos)**
   - Tutorials and problem-solving sessions on different data structures and algorithms.
 
-### Websites and Tutorials
+## Websites and Tutorials
 
 - **[LeetCode](https://leetcode.com/)**
   - Practice problems and challenges to enhance algorithmic skills.
@@ -1320,7 +1320,7 @@ public class Prim {
 
 
 
-## About the Author
+# About the Author
 
 **Salman Iyad** is a passionate software engineer and web developer with a deep interest in Data Structures and Algorithms. With a strong background in Java and a commitment to helping others learn.
 
